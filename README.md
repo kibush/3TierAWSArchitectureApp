@@ -40,9 +40,7 @@ If you successfully complete the practice:
 
 ---
 
-🎉 **Happy Learning!**
+🎉 **Happy Learning**
 
-
-[AWS 3 TIER PROJEC T.pdf](https://github.com/user-attachments/files/19173343/AWS.3.TIER.PROJEC.T.pdf)
-
+[AWS 3 TIER PROJEC T  GIT NOTES.pdf](https://github.com/user-attachments/files/19239437/AWS.3.TIER.PROJEC.T.GIT.NOTES.pdf)
 
