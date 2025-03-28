@@ -31,6 +31,7 @@ Give yourself a pat in the back if you got this far. The journey is long but the
 -------------------
 
 🎉 **Happy Learning**
+[AWS 3 TIER PROJEC T.pdf](https://github.com/user-attachments/files/19497488/AWS.3.TIER.PROJEC.T.pdf)
 
-[AWS 3 TIER PROJEC T  GIT NOTES.pdf](https://github.com/user-attachments/files/19239437/AWS.3.TIER.PROJEC.T.GIT.NOTES.pdf)
+
 
